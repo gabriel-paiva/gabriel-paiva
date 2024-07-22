@@ -1,5 +1,8 @@
-## Hi there 👋
+## Olá, sou o Gabriel Paiva 😉
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-ferreira-paiva) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/paivag1109)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-paiva&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-paiva&layout=compact)
 <!--
 **gabriel-paiva/gabriel-paiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

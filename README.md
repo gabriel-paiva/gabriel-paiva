@@ -1,4 +1,3 @@
-![MasterHead](https://lh3.googleusercontent.com/pw/AP1GczNQOA9FGT4gSuAw09ClaKRphQVAuOVR2wmdrBMVmnugs6UNa9UkrVIgnjiMx5gy9Rbe5XInKY8VTfLy6lkkma98Mj5xe3DAMtQcZvGbZbkEjdX3pBTCht_-vGCiLGYekk74xLGYaxY2oiD9uCIEb7R2=w1500-h600-s-no-gm?authuser=0)
 ## Olá, sou o Gabriel Paiva 😉
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-ferreira-paiva) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/paivag1109)
 
